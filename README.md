@@ -18,6 +18,7 @@ Problem statement : How to connect to end points which do not have static IP. Im
 - There should be one client, one intermediate server, one sensor server with two sensors (having different rate at which they record data).
 
 **Steps to run:**
+
 run in order:
 1. sensor.py
 2. server.py
